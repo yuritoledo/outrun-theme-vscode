@@ -1,9 +1,9 @@
 {
-  "name": "outrun",
-  "displayName": "Outrun",
-  "description": "A theme for VS Code inspired by the colors, style, and culture of the synthwave music scene.",
+  "name": "outrun-space",
+  "displayName": "Outrun Space",
+  "description": "My own version of Samrap's outrun VS Code theme",
   "version": "0.2.2",
-  "publisher": "samrapdev",
+  "publisher": "yuritoledo",
   "repository": "https://github.com/samrap/outrun-theme-vscode",
   "homepage": "https://outruntheme.com",
   "icon": "images/icon.png",
@@ -20,14 +20,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Outrun Night",
+        "label": "Outrun Space",
         "uiTheme": "vs-dark",
-        "path": "./themes/outrun-night-color-theme.json"
-      },
-      {
-        "label": "Outrun Electric",
-        "uiTheme": "vs-dark",
-        "path": "./themes/outrun-electric-color-theme.json"
+        "path": "./themes/outrun-space-color-theme.json"
       }
     ]
   }
