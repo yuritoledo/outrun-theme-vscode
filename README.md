@@ -1,7 +1,5 @@
 # Outrun Space Theme for VS Code
 
-## Changed `functions` and `JSX` colors.
-
 Outrun is a fully custom theme for VS Code inspired by the colors, style, and culture of the [synthwave](https://ironskullet.com/2018/03/01/what-is-synthwave-2018-edition/) music scene.
 
 ## Installation
