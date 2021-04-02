@@ -4,7 +4,7 @@
   "description": "My own version of Samrap's outrun VS Code theme",
   "version": "0.2.2",
   "publisher": "yuritoledo",
-  "repository": "https://github.com/samrap/outrun-theme-vscode",
+  "repository": "https://github.com/yuritoledo/outrun-theme-vscode",
   "homepage": "https://outruntheme.com",
   "icon": "images/icon.png",
   "galleryBanner": {
