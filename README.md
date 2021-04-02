@@ -2,7 +2,7 @@
 
 ## Improved some UI backgrounds
 
-## Changed `functions` colors.
+## Changed `functions` and `JSX` colors.
 
 Outrun is a fully custom theme for VS Code inspired by the colors, style, and culture of the [synthwave](https://ironskullet.com/2018/03/01/what-is-synthwave-2018-edition/) music scene.
 
@@ -12,17 +12,21 @@ Outrun is available on the Extension Marketplace. Search for **Outrun space**, i
 
 ## Screenshots
 
-#### Ruby
+#### React
 
-<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/ruby.png" alt="Outrun Theme for Ruby" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/react1.png" alt="Outrun Theme for Ruby" />
 
-#### PHP
+#### React JSX
 
-<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/php.png" alt="Outrun Theme for Ruby" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/react2.png" alt="Outrun Theme for Ruby" />
 
-#### With Sidebar & Terminal
+#### Styled Components
 
-<img src="https://raw.githubusercontent.com/samrap/outrun-theme-vscode/master/screenshots/ruby-full.png" alt="Outrun Theme for Ruby" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/styled-components.png" alt="Outrun Theme for Ruby" />
+
+#### Typescript
+
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/typescript.png" alt="Outrun Theme for Ruby" />
 
 #### Fixes & Enhancements
 
