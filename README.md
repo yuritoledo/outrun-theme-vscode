@@ -1,6 +1,4 @@
-# Outrun Theme for VS Code
-
-## Improved some UI backgrounds
+# Outrun Space Theme for VS Code
 
 ## Changed `functions` and `JSX` colors.
 
