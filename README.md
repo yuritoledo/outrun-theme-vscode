@@ -14,15 +14,15 @@ Outrun is available on the Extension Marketplace. Search for **Outrun space**, i
 
 #### React JSX
 
-<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/react2.png" alt="Outrun Theme for React/JSX" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/react2.png?raw=true" alt="Outrun Theme for React/JSX" />
 
 #### Styled Components
 
-<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/styled-components.png" alt="Outrun Theme for Styled Component" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/styled-components.png?raw=true" alt="Outrun Theme for Styled Component" />
 
 #### Typescript
 
-<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/typescript.png" alt="Outrun Theme for Typescript" />
+<img src="https://github.com/yuritoledo/outrun-theme-vscode/blob/master/screenshots/typescript.png?raw=true" alt="Outrun Theme for Typescript" />
 
 #### Fixes & Enhancements
 
